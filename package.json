@@ -1,0 +1,15 @@
+{
+  "name": "js_scada",
+  "version": "0.0.1",
+  "description": "A JavaScript based SCADA (Supervisory Control and Data Acquisition)",
+  "main": "src/index.js",
+  "repository": "https://github.com/CMAraujo87/js-SCADA.git",
+  "author": "Cleber Machado de Araujo <AraujoMachadoC@Gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ./src"
+  },
+  "dependencies": {
+    "electron": "^7.0.0"
+  }
+}
